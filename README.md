@@ -1,5 +1,4 @@
 # calc-algorithms
-repository test
 
 trapezoid rule and simpson's rule coded into python
 
